@@ -1,5 +1,5 @@
-Package: com.ub96.trollstoredc
-Name: TrollStoreDC
+Package: com.ub96.trollstore
+Name: TrollStore
 Version: 1.5.1
 Architecture: iphoneos-arm
 Description: An awesome application!
